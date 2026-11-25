@@ -1,0 +1,6 @@
+{
+  "name": "Folio Album",
+  "description": "Strict-offline photo and video gallery with virtual albums, Media3 video player, non-destructive editor, encrypted PIN/biometric vault, duplicate finder, and custom themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
